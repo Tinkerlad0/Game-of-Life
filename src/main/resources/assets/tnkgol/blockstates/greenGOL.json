@@ -1,0 +1,6 @@
+{
+	"variants": {
+		"active=false": { "model": "tnkgol:greenGOL" },
+		"active=true": { "model": "tnkgol:greenGOLActive"}
+	}
+}
